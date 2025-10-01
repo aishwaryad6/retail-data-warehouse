@@ -60,6 +60,7 @@ retail-data-warehouse/
 
 
 ---
+
 ## 🎯 Key Outcomes
 
 - Reduced reporting latency by consolidating ERP + CRM data into a single warehouse.  
