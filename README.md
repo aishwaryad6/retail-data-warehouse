@@ -57,7 +57,7 @@ retail-data-warehouse/
 │   └── gold/
 ├── tests/                     # Validation queries & test scripts
 └── README.md                  # Project overview
-
+```
 ---
 
 ## 🎯 Key Outcomes
