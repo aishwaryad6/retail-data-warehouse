@@ -46,7 +46,7 @@ retail-data-warehouse/
 │
 ├── datasets/ # Sample ERP and CRM datasets (CSV)
 ├── docs/ # Documentation and architecture diagrams
-│ ├── data_architecture.png
+│ ├── data_architecture_Diagram.png
 │ ├── data_models.png
 │ └── data_catalog.md
 ├── scripts/ # SQL scripts for ETL and transformations
