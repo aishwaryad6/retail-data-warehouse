@@ -41,20 +41,23 @@ The architecture follows a layered design:
 
 ---
 
-## 📂 Repository Structure# retail-data-warehouse
+## 📂 Repository Structure
+
+```bash
 retail-data-warehouse/
 │
-├── datasets/ # Sample ERP and CRM datasets (CSV)
-├── docs/ # Documentation and architecture diagrams
-│ ├── data_architecture_Diagram.png
-│ ├── data_models.png
-│ └── data_catalog.md
-├── scripts/ # SQL scripts for ETL and transformations
-│ ├── bronze/
-│ ├── silver/
-│ └── gold/
-├── tests/ # Validation queries & test scripts
-└── README.md # Project overview
+├── datasets/                  # Sample ERP and CRM datasets (CSV)
+├── docs/                      # Documentation and architecture diagrams
+│   ├── data_architecture_Diagram.png
+│   ├── data_models.png
+│   └── data_catalog.md
+├── scripts/                   # SQL scripts for ETL and transformations
+│   ├── bronze/
+│   ├── silver/
+│   └── gold/
+├── tests/                     # Validation queries & test scripts
+└── README.md                  # Project overview
+
 
 ---
 ## 🎯 Key Outcomes
