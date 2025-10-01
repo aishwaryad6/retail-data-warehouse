@@ -31,6 +31,12 @@ The architecture follows a layered design:
 
 ---
 
+## 🧱 Architecture Diagram  
+
+![Architecture Diagram](docs/Data_Architecture_Diagram.png)  
+
+---
+
 ## 🛠️ Tech Stack
 
 - **Database**: SQL Server  
