@@ -58,7 +58,6 @@ retail-data-warehouse/
 ├── tests/                     # Validation queries & test scripts
 └── README.md                  # Project overview
 
-
 ---
 
 ## 🎯 Key Outcomes
