@@ -1,4 +1,4 @@
-# 📊 Retail Data Warehouse & Reporting System
+# 📊 Retail Data Warehouse & Analytics
 
 This project demonstrates the design and implementation of a modern **data warehouse** for retail sales and customer data. It uses **SQL Server** with Medallion Architecture (Bronze, Silver, Gold layers) to process raw ERP and CRM data into analytics-ready models, enabling **reporting and business insights**.
 
